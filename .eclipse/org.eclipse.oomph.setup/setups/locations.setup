@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/C:/Users/Dileep/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/D:/Java%20Advance/Springday1/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Java%20Advance/a1_Servlets/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Java%20Advance/JavaAdvance1_Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Online%20Core%20java/CoreJava_Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Java%20Advance/JavaAdvance_Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/JavaLibrary_eclipse/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/D:/Java%20Advance/Springday1/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Dileep/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Java%20Advance/a1_Servlets/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Dileep/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Java%20Advance/JavaAdvance1_Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Dileep/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Online%20Core%20java/CoreJava_Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Dileep/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Java%20Advance/JavaAdvance_Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Dileep/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/JavaLibrary_eclipse/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Dileep/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
